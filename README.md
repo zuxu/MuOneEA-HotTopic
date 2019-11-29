@@ -11,7 +11,7 @@ Crossover can be enabled, but this has not been tested thoroughly.
 Member function ea::run() outputs a .csv file, which records information of fitness and levels every 1000 steps. It returns an integer [return], such that [return]%1000 is the number of visited levels and [return]/1000 is the running time (in 1000 steps). See /simulations/c.cpp for sample usage.
 
 ## /simulations
-Codes that are used to generate plots in the paper.
+Plots and codes that are used to generate them.
 
 
 
